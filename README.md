@@ -23,11 +23,11 @@ This app helps users track their **income, expenses, and balance**, while storin
 
 ## 📂 Project Structure  
 <br>
-expense-tracker/
-│-- index.html
-│-- style.css
-│-- script.js
-│-- README.md
+expense-tracker/<br>
+│-- index.html<br>
+│-- style.css<br>
+│-- script.js<br>
+│-- README.md<br>
 <br>
 
 ---
