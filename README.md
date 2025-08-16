@@ -35,12 +35,6 @@ expense-tracker/<br>
 ## ⚡ How to Run Locally  
 1. Clone the repository or download the ZIP  
    ```bash
-   git clone 
----
-
-## ⚡ How to Run Locally  
-1. Clone the repository or download the ZIP  
-   ```bash
    git clone https://github.com/KrisNova143/Basic-expense-tracker.git
 2. Open index.html in your browser
 3. Start adding your income & expenses!
